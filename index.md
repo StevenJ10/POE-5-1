@@ -1,2 +1,2 @@
-## Página de la Materia de Programación Orientada a Eventos (POE)
+## Página de la Materia de Programación Orientada a Eventos 
 
